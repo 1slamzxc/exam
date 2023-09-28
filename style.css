@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    padding: 20px 100px;
+}
+.plant {
+    display: flex;
+    font-size: 25px;
+
+}
+.spano {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    top: 5px;
+    left: 130px;
+    gap: 20px;
+    font-size: 15px; 
+}
+span {
+    font-size: 15px;
+}
+.second_span {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    top: 5px;
+    left: 230px;
+    gap: 20px;
+    margin: 0 0 0 20px;
+}
+button {
+    background-color: #066f14;
+    width: 70px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 10px;
+}
+.Grow {
+    font-size: 50px;
+    padding: 50px 100px;
+}
+hr {
+    width: 400px;
+    height: 20px;
+}
+.lorem {
+    width: 500px;
+    padding: 10px 100px;
+}
+.btn {
+    padding: 10px 100px;
+}
+.button_2 {
+    width: 150px;
+}
+.image {
+    position: absolute;
+    left: 90vh;
+    bottom: 20px;
+}
+.number {
+    display: flex;
+    gap: 80px;
+    position: relative;
+    left: 100px;
+    height: 50px;
+}
+.Delivery {
+    display: flex;
+    gap: 110px;
+    position: relative;
+    left: 100px;
+}
+.new {
+    font-size: 30px;
+    padding: 110px 100px 20px 100px;
+}
+.imgnew {
+    padding: 70px 0px;
+    position: absolute;
+    left: 600px;
+}
+.suka {
+    padding: 0px 100px 20px 100px;
+}
+.second_new {
+    background: #066f14;
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    left: 100px;
+}
+.derevo{
+    position: absolute;
+    left: 130px;
+    top: 168vh;
+}
+.Continue {
+    position: relative;
+    left: 100vh;
+}
+.content {
+    margin: 15px 0 20px 0;
+    width: 400px;
+}
+.span_2 {
+    width: 400px;
+}
+.span_lorem {
+    font-size: 20px;
+    font-weight: 10px;
+}
+.read {
+    position: relative;
+    left: 100vh;
+    top: 25px;
+}
+.butt {
+    width: 150px;
+}
