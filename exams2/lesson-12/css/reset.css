@@ -1,0 +1,57 @@
+*::-webkit-input-placeholder {
+    opacity: 0.5;
+}
+
+*::-moz-placeholder {
+    opacity: 0.5;
+}
+
+*::-ms-input-placeholder {
+    opacity: 0.5;
+}
+
+body {
+    margin: 0;
+    background-color: #202020;
+    overflow-x: hidden;
+    position: relative;
+    line-height: 1.6;
+    min-width: 320px;
+    font-size: 16px;
+    font-family: "Raleway", sans-serif;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    font-weight: normal;
+}
+
+p {
+    margin: 0;
+}
+
+a, a:hover, a:focus {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
