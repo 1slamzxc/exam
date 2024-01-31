@@ -1,0 +1,51 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 110vh;
+  background: linear-gradient(45deg, rgb(82, 11, 11), pink);
+}
+
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
+
+.add {
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  background-color: lightblue;  
+}
+
+.buttonDelete {
+  margin-left: 15px;
+  background: red;
+}
+
+input { 
+  background: transparent;
+  border: none;
+  margin-bottom: 20px;
+  outline: none;
+  border-bottom: 1px solid;
+}
+
+.list {
+  margin: 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.h1 {
+  margin-bottom: 20px;
+}
